@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dlarrabee18/color-randomizer/static/css/main.0650008a.css",
-    "main.js": "/dlarrabee18/color-randomizer/static/js/main.b3745c67.js",
-    "index.html": "/dlarrabee18/color-randomizer/index.html",
-    "main.0650008a.css.map": "/dlarrabee18/color-randomizer/static/css/main.0650008a.css.map",
-    "main.b3745c67.js.map": "/dlarrabee18/color-randomizer/static/js/main.b3745c67.js.map"
+    "main.css": "/static/css/main.0650008a.css",
+    "main.js": "/static/js/main.68809cea.js",
+    "index.html": "/index.html",
+    "main.0650008a.css.map": "/static/css/main.0650008a.css.map",
+    "main.68809cea.js.map": "/static/js/main.68809cea.js.map"
   },
   "entrypoints": [
     "static/css/main.0650008a.css",
-    "static/js/main.b3745c67.js"
+    "static/js/main.68809cea.js"
   ]
 }
